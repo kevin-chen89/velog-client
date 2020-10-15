@@ -1,10 +1,8 @@
 ## velog-client
 
-> Velog is a blog platform for developers. It provides compfy markdown editor with syntax highlighter enabled. Currently, this service only supports Korean language.
+> Velog is a blog platform for developers. It provides compfy markdown editor with syntax highlighter enabled.
 
-Website link: https://velog.io/
-
-Backend project of service is at another Repo - [velog-backend](https://github.com/velopert/velog-server)
+Backend project of service is at another Repo - [velog-backend](https://github.com/kevin-chen89/velog-server)
 
 ### Project Stack
 
